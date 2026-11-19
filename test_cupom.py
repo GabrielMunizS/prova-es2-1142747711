@@ -1,4 +1,3 @@
-
 from cupom import desconto_valido
 
 
